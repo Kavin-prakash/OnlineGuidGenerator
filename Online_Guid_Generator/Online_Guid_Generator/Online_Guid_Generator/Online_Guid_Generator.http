@@ -1,0 +1,6 @@
+@Online_Guid_Generator_HostAddress = http://localhost:5142
+
+GET {{Online_Guid_Generator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
